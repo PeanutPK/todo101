@@ -340,6 +340,3 @@ etc/trimmed_system_perf.yml
 /version_expansions.yml
 /engflow.*
 /.bazelrc.evergreen
-
-# ignore mongo files
-*.wt
